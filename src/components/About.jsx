@@ -41,7 +41,7 @@ const About = () => {
             </div>
 
             <div className="flex justify-center md:justify-end">
-            <img src="./src/assets/anime-profile-flat-vector.jpg" alt="Adrianne" className="w-64 h-64 rounded-xl shadow-lg object-cover"/>
+            <img src="./public/profile.jpg" alt="Hisui" className="w-64 h-64 rounded-xl shadow-lg object-cover"/>
             </div>
         
         </div>
