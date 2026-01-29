@@ -14,7 +14,7 @@ const About = () => {
                     </h2>
                 
                 <p className={`text-slate-600 text-lg mb-6 transition-all duration-1200 ease-out ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"} delay-200`}>
-                    I'm Adrianne, a developer passionate about building
+                    I'm Hisui, a developer passionate about building
                     beautiful and functional web interfaces. I love crafting
                     responsive and interactive experiences with React and Tailwind CSS.
                 </p>
